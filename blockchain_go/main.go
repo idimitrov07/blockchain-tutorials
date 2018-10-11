@@ -48,7 +48,7 @@ func generateBlock(oldBlock Block, BMP int) (Block, error) {
 	return newBlock, nil
 }
 
-
+// contunue with blockchain and block validation
 
 
 
